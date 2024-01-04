@@ -25,7 +25,7 @@ def get_number(text):
     return int(num[0] + num[-1])
 
 num_letter = {
-    "one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9", "zero": "0",
+    "one": "1", "two": "2", "three": "3", "four": "4", "five": "5", "six": "6", "seven": "7", "eight": "8", "nine": "9",
 }
 
 def get_letter_digit(text):
